@@ -1,6 +1,6 @@
 
 # Magic in Motion: Interactive Fairy Tales
-
+![Scene 2](images/scene2.jpg)
 ## Overview
 "Magic in Motion" is an interactive storytelling project that brings the magic of fairy tales to life! Developed as a team of three during the **ACM-W Hackathon**, this project allows users to step into the world of fairy tales, starting with the classic story **"Snow White and Rose Red."** 
 
